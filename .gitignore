@@ -1,0 +1,9 @@
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+UserSettings/
+MemoryCaptures/
+Recordings/
+.vs/
